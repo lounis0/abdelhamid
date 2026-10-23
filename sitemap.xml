@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://abdelhamidsadli.com/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Video 1: Creator Setup & Desk Organization Reel -->
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/u6cgbxr4/video/upload/v1792672813/abdou1_b_mdf.jpg</video:thumbnail_loc>
+      <video:title>Creator Setup &amp; Desk Organization Reel — Abdelhamid Sadli</video:title>
+      <video:description>Commercial short-form reel by Abdelhamid Sadli showcasing modern desk setup essentials and mobile gimbal gear for digital creators.</video:description>
+      <video:content_loc>https://res.cloudinary.com/u6cgbxr4/video/upload/v1792672813/abdou1_b_mdf.mp4</video:content_loc>
+      <video:duration>22</video:duration>
+      <video:publication_date>2026-01-15T09:00:00+01:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:uploader info="https://abdelhamidsadli.com/">Abdelhamid Sadli</video:uploader>
+    </video:video>
+
+    <!-- Video 2: ASUS Dual GeForce RTX 5060 Product Launch Reel -->
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/u6cgbxr4/video/upload/v1792673112/abdou1_gpu_rtx5060.jpg</video:thumbnail_loc>
+      <video:title>ASUS Dual GeForce RTX 5060 Product Launch Reel — Abdelhamid Sadli</video:title>
+      <video:description>High-energy tech unboxing and key specs feature reel by Abdelhamid Sadli for the ASUS Dual OC GeForce RTX 5060 GPU.</video:description>
+      <video:content_loc>https://res.cloudinary.com/u6cgbxr4/video/upload/v1792673112/abdou1_gpu_rtx5060.mp4</video:content_loc>
+      <video:duration>26</video:duration>
+      <video:publication_date>2026-02-10T11:00:00+01:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:uploader info="https://abdelhamidsadli.com/">Abdelhamid Sadli</video:uploader>
+    </video:video>
+
+    <!-- Video 3: Colorful Battle-AX B760M Motherboard Review Reel -->
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/u6cgbxr4/video/upload/v1792673261/abdou1_mb_clr.jpg</video:thumbnail_loc>
+      <video:title>Colorful Battle-AX B760M Hardware Review Reel — Abdelhamid Sadli</video:title>
+      <video:description>Gaming motherboard unboxing, aesthetic presentation, and component review reel by Abdelhamid Sadli.</video:description>
+      <video:content_loc>https://res.cloudinary.com/u6cgbxr4/video/upload/v1792673261/abdou1_mb_clr.mp4</video:content_loc>
+      <video:duration>34</video:duration>
+      <video:publication_date>2026-03-01T14:30:00+01:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:uploader info="https://abdelhamidsadli.com/">Abdelhamid Sadli</video:uploader>
+    </video:video>
+
+    <!-- Video 4: Victorage Gaming Chair Showroom Showcase -->
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/u6cgbxr4/video/upload/v1792673612/abdou1_gc.jpg</video:thumbnail_loc>
+      <video:title>Victorage Gaming Chair Showroom Showcase — Abdelhamid Sadli</video:title>
+      <video:description>Showroom ergonomics demonstration and retail commercial presentation reel by Abdelhamid Sadli.</video:description>
+      <video:content_loc>https://res.cloudinary.com/u6cgbxr4/video/upload/v1792673612/abdou1_gc.mp4</video:content_loc>
+      <video:duration>29</video:duration>
+      <video:publication_date>2026-03-18T16:00:00+01:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:uploader info="https://abdelhamidsadli.com/">Abdelhamid Sadli</video:uploader>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://abdelhamidsadli.com/content/Abdelhamid-Sadli-CV.pdf</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdelhamidsadli.com/llms.txt</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
