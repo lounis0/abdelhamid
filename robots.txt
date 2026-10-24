@@ -57,4 +57,4 @@ Allow: /
 User-agent: FacebookBot
 Allow: /
 
-Sitemap: https://abdelhamidsadli.com/sitemap.xml
+Sitemap: https://abdelhamidsdl.vercel.app/sitemap.xml
